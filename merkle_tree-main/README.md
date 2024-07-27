@@ -1,3 +1,3 @@
 # merkle_tree
-solidity implementation
+solidity implementation of merkle tree
 test comma
