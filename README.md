@@ -27,5 +27,3 @@ To use the Merkle Tree implementation, you will need an Ethereum wallet and some
 This project is licensed under the MIT License. Feel free to fork, modify, and use it as you see fit.
 
 ---
-
-For any questions or contributions, feel free to open an issue or submit a pull request!
